@@ -1,0 +1,24 @@
+python-aiodns==3.0.0
+python-aiogram== 2.14.3
+python-aiohttp==3.7.4.post0
+python-async-timeout==3.0.1
+python-attrs==21.2.0
+python-Babel==2.9.1
+python-cchardet==2.1.7
+python-certifi==2021.5.30
+python-cffi==1.14.6
+python-chardet==4.0.0
+python-greenlet==1.1.1
+python-idna==3.2
+python-multidict==5.1.0
+python-pip==21.1.2
+python-pycares==4.0.0
+python-pycparser==2.20
+python-pytz==2021.1
+python-setuptools==57.0.0
+python-SQLAlchemy==1.4.22
+python-typing-extensions==3.10.0.0
+python-ujson==4.0.2
+python-uvloop==0.15.3
+python-wheel==0.36.2
+python-yarl==1.6.3

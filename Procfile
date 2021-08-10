@@ -1,0 +1,1 @@
+cat: python3 bot.py
